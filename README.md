@@ -60,4 +60,4 @@ Visit http://localhost:3000 to view the app.
 📷 Sample Doctors
 Doctor images are located in /public/images/ and referenced in DoctorList.jsx. You can replace them with real ones or fetch from an API.
 
-Minimum AI assistance was needed, I only used Claude AI in looking for the perfect 
+Minimum AI assistance was needed, I only used Claude AI in looking for the perfect design since the ui/ux design wasn't provided.
